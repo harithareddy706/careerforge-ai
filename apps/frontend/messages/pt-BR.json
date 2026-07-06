@@ -176,7 +176,8 @@
       "resume": "CURRÍCULO",
       "coverLetter": "CARTA DE APRESENTAÇÃO",
       "outreach": "MENSAGEM DE CONTATO",
-      "jdMatch": "ANÁLISE DE VAGA"
+      "jdMatch": "ANÁLISE DE VAGA",
+      "interviewPrep": "PREPARAÇÃO"
     },
     "footer": {
       "moduleLabel": "Módulo de Criação de Currículo",
@@ -195,7 +196,9 @@
       "outreachDescription": "Gere uma mensagem de contato concisa para LinkedIn ou email com base no seu currículo e descrição da vaga.",
       "generateButton": "Gerar {title}",
       "coverLetterFooter": "Dica: personalize primeiro para melhores resultados.",
-      "outreachFooter": "Dica: mantenha curta e personalizada."
+      "outreachFooter": "Dica: mantenha curta e personalizada.",
+      "interviewPrepDescription": "Gere preparação para entrevista com base no currículo adaptado e na descrição da vaga.",
+      "interviewPrepFooter": "Dica: use depois de adaptar o currículo para preparar respostas verdadeiras e baseadas em evidências."
     },
     "regenerateDialog": {
       "title": "Regenerar {title}?",
@@ -444,7 +447,8 @@
       "editorPanel": "Painel do Editor",
       "coverLetterEditor": "Editor de Carta de Apresentação",
       "outreachEditor": "Editor de Mensagem de Contato",
-      "jdMatchAnalysis": "Análise de Correspondência de Vaga"
+      "jdMatchAnalysis": "Análise de Correspondência de Vaga",
+      "interviewPrep": "Preparação para entrevista"
     },
     "alerts": {
       "saveNotAvailable": "Salvar só está disponível ao editar um currículo existente.",
@@ -461,7 +465,8 @@
       "coverLetterDownloadFailed": "Falha ao baixar carta de apresentação: {error}",
       "outreachSaveFailed": "Falha ao salvar mensagem de contato. Por favor, tente novamente.",
       "coverLetterGenerateFailed": "Falha ao gerar carta de apresentação: {error}",
-      "outreachGenerateFailed": "Falha ao gerar mensagem de contato: {error}"
+      "outreachGenerateFailed": "Falha ao gerar mensagem de contato: {error}",
+      "interviewPrepGenerateFailed": "Falha ao gerar preparação para entrevista: {error}"
     }
   },
   "enrichment": {
@@ -705,7 +710,11 @@
       "customPromptLabel": "Prompt personalizado (opcional)",
       "customPromptHelp": "Deve incluir estes marcadores (cada um entre chaves): job_description, resume_data, output_language. Deixe em branco para usar o prompt padrão.",
       "customPromptResetButton": "Restaurar padrão",
-      "customPromptErrorMissing": "Marcadores obrigatórios ausentes: {missing}"
+      "customPromptErrorMissing": "Marcadores obrigatórios ausentes: {missing}",
+      "interviewPrep": {
+        "label": "Preparação para entrevista",
+        "description": "Gerar automaticamente preparação para entrevista junto com currículos adaptados salvos"
+      }
     },
     "promptSettings": {
       "title": "Configurações de Prompt",
@@ -1005,6 +1014,25 @@
       "loadFailed": "Não foi possível carregar as candidaturas.",
       "moveFailed": "Não foi possível mover a candidatura.",
       "deleteFailed": "Não foi possível excluir a(s) candidatura(s)."
+    }
+  },
+  "interviewPrep": {
+    "title": "Preparação para entrevista",
+    "regenerate": "Gerar novamente",
+    "unavailableTitle": "Preparação indisponível",
+    "loadingContextDescription": "Verificando o contexto da vaga para este currículo adaptado antes de gerar.",
+    "missingContextDescription": "Este currículo adaptado não tem o contexto da vaga salvo necessário para gerar preparação para entrevista. Adapte o currículo novamente com uma descrição da vaga.",
+    "saveRequiredDescription": "Salve este currículo adaptado antes de gerar preparação para entrevista.",
+    "focusArea": "Área de foco",
+    "suggestedAnswerPoints": "Pontos sugeridos para resposta",
+    "whyItMatters": "Por que importa",
+    "preparationSuggestion": "Sugestão de preparação",
+    "sections": {
+      "roleFit": "Análise de adequação",
+      "resumeQuestions": "Perguntas baseadas no currículo",
+      "projectFollowUps": "Perguntas sobre projetos",
+      "skillGaps": "Lacunas de habilidades",
+      "talkingPoints": "Pontos de conversa"
     }
   }
 }
