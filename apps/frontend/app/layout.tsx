@@ -48,11 +48,11 @@ const notoSansJP = Noto_Sans_JP({
   preload: false,
 });
 
-export const metadata: Metadata = {
-  title: 'Resume Matcher',
-  description: 'Build your resume with Resume Matcher',
-  applicationName: 'Resume Matcher',
-  keywords: ['resume', 'matcher', 'job', 'application'],
+export const metadata: Metadata = { 
+  title: 'CareerForge AI', 
+  description: 'AI-powered resume optimization and career assistant', 
+  applicationName: 'CareerForge AI', 
+  keywords: ['AI resume', 'career assistant', 'resume optimization', 'job matching'], 
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

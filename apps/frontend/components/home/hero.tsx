@@ -32,7 +32,7 @@ export default function Hero() {
 
         <div className="flex flex-col gap-4 md:flex-row md:gap-12">
           <a
-            href="https://github.com/srbhr/Resume-Matcher"
+            href="https://github.com/harithareddy706/careerforge-ai"
             target="_blank"
             rel="noopener noreferrer"
             className={buttonClass}
@@ -40,12 +40,12 @@ export default function Hero() {
             GitHub
           </a>
           <a
-            href="https://resumematcher.fyi"
+            href="https://github.com/harithareddy706/careerforge-ai#readme"
             target="_blank"
             rel="noopener noreferrer"
             className={buttonClass}
           >
-            {t('home.docs')}
+           {t('home.docs')}
           </a>
           <Link href="/dashboard" className={buttonClass}>
             {t('home.launchApp')}
