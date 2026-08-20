@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Resume Matcher](assets/header.png)](https://www.resumematcher.fyi)
+[![# CareerForge AI 🚀](assets/header.png)](https://github.com/harithareddy706/careerforge-ai)
 
-# Resume Matcher
+# CareerForge AI 🚀
 
-[𝙹𝚘𝚒𝚗 𝙳𝚒𝚜𝚌𝚘𝚛𝚍](https://dsc.gg/resume-matcher) ✦ [𝚆𝚎𝚋𝚜𝚒𝚝𝚎](https://resumematcher.fyi) ✦ [𝙷𝚘𝚠 𝚝𝚘 𝙸𝚗𝚜𝚝𝚊𝚕𝚕](https://resumematcher.fyi/docs/installation) ✦ [𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛𝚜](#contributors) ✦ [𝚂𝚙𝚘𝚗𝚜𝚘𝚛](#sponsors) ✦ [𝚃𝚠𝚒𝚝𝚝𝚎𝚛/𝚇](https://twitter.com/srbhrai) ✦ [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/company/resume-matcher/) ✦ [𝙲𝚛𝚎𝚊𝚝𝚘𝚛](https://srbhr.com)
+[𝙶𝚒𝚝𝙷𝚞𝚋]((https://github.com/harithareddy706/careerforge-ai)) ✦[𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/kharithareddy/) ✦ [𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜](#key-features) ✦ [𝙸𝚗𝚜𝚝𝚊𝚕𝚕𝚊𝚝𝚒𝚘𝚗](#how-to-install) ✦ [𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎](#join-us-and-contribute)
 
 **English** | [Español](README.es.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
 
-The AI harness to build tailored resumes for each job application with Claude, ChatGPT, DeepSeek, Kimi, GLM, Gemma, and other LLMs. Supports both local and remote LLMs.
+CareerForge AI is an AI-powered career assistant that helps job seekers optimize resumes, match job descriptions, generate cover letters, and prepare for interviews using modern AI models.
 
-![Resume Matcher Demo](assets/Resume_Matcher_Demo_2.gif)
+![CareerForge AI 🚀 Demo](assets/careerforge-demo.gif)
 
 </div>
 
@@ -18,10 +18,21 @@ The AI harness to build tailored resumes for each job application with Claude, C
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/srbhr/Resume-Matcher?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8)
-![Apache 2.0](https://img.shields.io/github/license/srbhr/Resume-Matcher?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8) ![Forks](https://img.shields.io/github/forks/srbhr/Resume-Matcher?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8) ![version](https://img.shields.io/badge/Version-1.2%20Nightvision%20-FFF?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8)
+![Stars](https://img.shields.io/github/stars/harithareddy706/careerforge-ai?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8)
 
-[![Discord](https://img.shields.io/discord/1122069176962531400?labelColor=F0F0E8&logo=discord&logoColor=1d4ed8&style=for-the-badge&color=1d4ed8)](https://dsc.gg/resume-matcher) [![Website](https://img.shields.io/badge/website-Resume%20Matcher-FFF?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8)](https://resumematcher.fyi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Resume%20Matcher-FFF?labelColor=F0F0E8&logo=LinkedIn&style=for-the-badge&color=1d4ed8)](https://www.linkedin.com/company/resume-matcher/)
+![Apache 2.0](https://img.shields.io/github/license/harithareddy706/careerforge-ai?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8)
+
+![Forks](https://img.shields.io/github/forks/harithareddy706/careerforge-ai?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8)
+
+![Version](https://img.shields.io/badge/Version-1.0%20CareerForge%20AI-FFF?labelColor=F0F0E8&style=for-the-badge&color=1d4ed8)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-CareerForge%20AI-FFF?labelColor=F0F0E8&logo=github&logoColor=1d4ed8&style=for-the-badge&color=1d4ed8)](https://github.com/harithareddy706/careerforge-ai)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haritha%20Reddy-FFF?labelColor=F0F0E8&logo=LinkedIn&style=for-the-badge&color=1d4ed8)](https://www.linkedin.com/in/kharithareddy/)
+
+</div>
 
 <a href="https://trendshift.io/repositories/565" target="_blank"><img src="https://trendshift.io/api/badge/repositories/565" alt="srbhr%2FResume-Matcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
